@@ -1,0 +1,19 @@
+completed sudoku
+   
+
+1 2 3 4
+4 3 2 1
+3 4 1 2
+2 1 4 3
+
+ THE LOGIC AND STEP I TOOK TO SOLVE THE PUZZLE
+ 
+step 1 - Look at the small 2×2 square in the top-left corner. That little box already has a 3 and the only place left for the number 1 in that box is the top-left cell. So put 1 there.
+
+step 2 - Now check the first column and second column: because of the numbers already placed, the remaining empty spots in those columns must be 2 and 4 (order not fixed yet). So the empty cells in those two columns are only 2 or 4.
+
+step 3 - In the third row, the only place that can hold 1 (so the row has all four different numbers) is the third cell of that row. Put 1 there.
+
+step 4 - using that, the bottom-right cell must be 3 (it’s the only place left in that row IS 3). Put 3 there.
+
+step 5 - After those forced moves, only 2 and 4 remain in the empty spots. Put them where they don’t break the rules That finishes the puzzle.
