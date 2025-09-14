@@ -1,0 +1,3 @@
+Recursion and iteration are two fundamental concepts in computer science used to solve problems by repeatedly executing a set of instructions.
+Recursive:-is a programming technique where a function calls itself to solve smaller instances of the same problem until it reaches a base case.
+iterative:-a block of code is executed repeatedly until a specified condition is met or a certain number of iterations have been reached.
