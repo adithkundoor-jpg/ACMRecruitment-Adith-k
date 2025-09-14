@@ -1,0 +1,3 @@
+Sorting Algorithm Choice
+
+I chose Insertion Sort for this task because,Insertion Sort is easy to implement and performs well on small datasets. It works efficiently for nearly sorted or small input arrays like the one used in this task: [5, 2, 9, 1, 5, 6].
