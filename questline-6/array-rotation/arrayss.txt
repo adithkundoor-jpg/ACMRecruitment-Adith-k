@@ -1,0 +1,3 @@
+The "Rotate Array" problem involves rotating an array to the right by k steps.
+ Given an array and an integer k, the goal is to shift the array elements to the right by k positions. 
+my solution approach:-The rotation should be cyclic, meaning the last k elements become the first k elements.
